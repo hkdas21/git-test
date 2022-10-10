@@ -1,7 +1,7 @@
 Static Website Example
 ----------------------
 
-To be used with Cloud Academy labs.
+Demo Repo for Git Fundamentals
 
 
 License
